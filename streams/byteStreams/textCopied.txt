@@ -1,0 +1,1 @@
+This is the text that went as a byte stream to create a new file

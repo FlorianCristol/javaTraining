@@ -1,0 +1,1 @@
+this is the text we will copy character by character with a buffer stream which wraps a character stream
