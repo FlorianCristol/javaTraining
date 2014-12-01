@@ -28,5 +28,8 @@ public class StringManipulation{
 		
 		bonjour = bonjour.concat(reverseString);
 		System.out.println(bonjour);
+
+		String subString = bonjour.substring(2,5);
+		System.out.println(subString);
 	}
 }
